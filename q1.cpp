@@ -5,6 +5,8 @@ using namespace std;
 //********************
 // Declare Function Prototypes
 //********************
+void swapTwoValues(int n1, int n2):
+void swapTwoValues(float f1, float f2) : 
 
 int main()
 {
@@ -25,3 +27,10 @@ int main()
 // ******************************
 // Implement all your functions here
 // ******************************
+
+void swapTwoValues(int n1, int n2) {
+
+}
+void swapTwoValues(float f1, float f2) {
+	
+}
