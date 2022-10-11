@@ -33,7 +33,7 @@ int main()
 // ******************************
 
 void getinput(int &n1, int &n2) {
-	cout << "Type two integers that need to be swapped:" << endl;
+	cout << "Type two integers numbers that need to be swapped:" << endl;
 	cin >> n1 >> n2;
 }
 
